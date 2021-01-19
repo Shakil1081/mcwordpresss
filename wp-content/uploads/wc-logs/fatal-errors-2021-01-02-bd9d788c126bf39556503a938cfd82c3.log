@@ -1,0 +1,52 @@
+2021-01-02T05:32:44+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in E:\wampp\www\mcwordpress\wp-content\themes\certificate\single-product.php:113
+Stack trace:
+#0 E:\wampp\www\mcwordpress\wp-includes\template-loader.php(106): include()
+#1 E:\wampp\www\mcwordpress\wp-blog-header.php(19): require_once('E:\\wampp\\www\\mc...')
+#2 E:\wampp\www\mcwordpress\index.php(17): require('E:\\wampp\\www\\mc...')
+#3 {main}
+  thrown in E:\wampp\www\mcwordpress\wp-content\themes\certificate\single-product.php on line 113
+
+2021-01-02T05:32:53+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in E:\wampp\www\mcwordpress\wp-content\themes\certificate\single-product.php:113
+Stack trace:
+#0 E:\wampp\www\mcwordpress\wp-includes\template-loader.php(106): include()
+#1 E:\wampp\www\mcwordpress\wp-blog-header.php(19): require_once('E:\\wampp\\www\\mc...')
+#2 E:\wampp\www\mcwordpress\index.php(17): require('E:\\wampp\\www\\mc...')
+#3 {main}
+  thrown in E:\wampp\www\mcwordpress\wp-content\themes\certificate\single-product.php on line 113
+
+2021-01-02T14:31:57+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in E:\wampp\www\mcwordpress\wp-content\themes\certificate\single-product.php:113
+Stack trace:
+#0 E:\wampp\www\mcwordpress\wp-includes\template-loader.php(106): include()
+#1 E:\wampp\www\mcwordpress\wp-blog-header.php(19): require_once('E:\\wampp\\www\\mc...')
+#2 E:\wampp\www\mcwordpress\index.php(17): require('E:\\wampp\\www\\mc...')
+#3 {main}
+  thrown in E:\wampp\www\mcwordpress\wp-content\themes\certificate\single-product.php on line 113
+
+2021-01-02T15:11:04+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE) in E:\wampp\www\mcwordpress\wp-content\themes\certificate\index.php on line 104
+
+2021-01-02T15:30:52+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in E:\wampp\www\mcwordpress\wp-content\themes\certificate\single-product.php:113
+Stack trace:
+#0 E:\wampp\www\mcwordpress\wp-includes\template-loader.php(106): include()
+#1 E:\wampp\www\mcwordpress\wp-blog-header.php(19): require_once('E:\\wampp\\www\\mc...')
+#2 E:\wampp\www\mcwordpress\index.php(17): require('E:\\wampp\\www\\mc...')
+#3 {main}
+  thrown in E:\wampp\www\mcwordpress\wp-content\themes\certificate\single-product.php on line 113
+
+2021-01-02T15:30:56+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in E:\wampp\www\mcwordpress\wp-content\themes\certificate\single-product.php:113
+Stack trace:
+#0 E:\wampp\www\mcwordpress\wp-includes\template-loader.php(106): include()
+#1 E:\wampp\www\mcwordpress\wp-blog-header.php(19): require_once('E:\\wampp\\www\\mc...')
+#2 E:\wampp\www\mcwordpress\index.php(17): require('E:\\wampp\\www\\mc...')
+#3 {main}
+  thrown in E:\wampp\www\mcwordpress\wp-content\themes\certificate\single-product.php on line 113
+
+2021-01-02T15:31:13+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in E:\wampp\www\mcwordpress\wp-content\themes\certificate\single-product.php:113
+Stack trace:
+#0 E:\wampp\www\mcwordpress\wp-includes\template-loader.php(106): include()
+#1 E:\wampp\www\mcwordpress\wp-blog-header.php(19): require_once('E:\\wampp\\www\\mc...')
+#2 E:\wampp\www\mcwordpress\index.php(17): require('E:\\wampp\\www\\mc...')
+#3 {main}
+  thrown in E:\wampp\www\mcwordpress\wp-content\themes\certificate\single-product.php on line 113
+
+2021-01-02T15:34:37+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE) in E:\wampp\www\mcwordpress\wp-content\themes\certificate\index.php on line 104
+
