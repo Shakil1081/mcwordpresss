@@ -1,0 +1,144 @@
+2021-01-23T12:49:44+00:00 CRITICAL require(): Failed opening required 'E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent/includes/class-plugin-name.php' (include_path='.;C:\php\pear') in E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent\defaultuniquecontent.php on line 70
+
+2021-01-23T12:49:44+00:00 CRITICAL require(): Failed opening required 'E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent/includes/class-plugin-name.php' (include_path='.;C:\php\pear') in E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent\defaultuniquecontent.php on line 70
+
+2021-01-23T12:49:45+00:00 CRITICAL require(): Failed opening required 'E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent/includes/class-plugin-name.php' (include_path='.;C:\php\pear') in E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent\defaultuniquecontent.php on line 70
+
+2021-01-23T12:51:49+00:00 CRITICAL Cannot redeclare deactivate_plugin_name() (previously declared in E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent\defaultuniquecontent.php:58) in E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent\defaultuniquecontent.php on line 58
+
+2021-01-23T12:51:50+00:00 CRITICAL Cannot redeclare deactivate_plugin_name() (previously declared in E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent\defaultuniquecontent.php:58) in E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent\defaultuniquecontent.php on line 58
+
+2021-01-23T12:51:50+00:00 CRITICAL Cannot redeclare deactivate_plugin_name() (previously declared in E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent\defaultuniquecontent.php:58) in E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent\defaultuniquecontent.php on line 58
+
+2021-01-23T12:52:48+00:00 CRITICAL Cannot redeclare activate_plugin_name() (previously declared in E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent\defaultuniquecontent.php:49) in E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent\defaultuniquecontent.php on line 49
+
+2021-01-23T12:52:49+00:00 CRITICAL Cannot redeclare activate_plugin_name() (previously declared in E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent\defaultuniquecontent.php:49) in E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent\defaultuniquecontent.php on line 49
+
+2021-01-23T12:52:49+00:00 CRITICAL Cannot redeclare activate_plugin_name() (previously declared in E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent\defaultuniquecontent.php:49) in E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent\defaultuniquecontent.php on line 49
+
+2021-01-23T12:53:23+00:00 CRITICAL Uncaught Error: Maximum function nesting level of '256' reached, aborting! in E:\wampp\www\mcwordpress\wp-includes\formatting.php:2718
+Stack trace:
+#0 E:\wampp\www\mcwordpress\wp-includes\formatting.php(2718): rtrim('E:\\wampp\\www\\mc...', '/\\')
+#1 E:\wampp\www\mcwordpress\wp-includes\formatting.php(2703): untrailingslashit('E:\\wampp\\www\\mc...')
+#2 E:\wampp\www\mcwordpress\wp-includes\plugin.php(755): trailingslashit('E:\\wampp\\www\\mc...')
+#3 E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent\defaultuniquecontent.php(50): plugin_dir_path('E:\\wampp\\www\\mc...')
+#4 E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent\defaultuniquecontent.php(57): require('E:\\wampp\\www\\mc...')
+#5 E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent\defaultuniquecontent.php(57): require('E:\\wampp\\www\\mc...')
+#6 E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent\defaultuniquecontent.php(57): require('E:\\wampp\\www\\mc...')
+#7 E:\wampp\www\mcwordpress\wp-content\pl in E:\wampp\www\mcwordpress\wp-includes\formatting.php on line 2718
+
+2021-01-23T12:53:29+00:00 CRITICAL Uncaught Error: Maximum function nesting level of '256' reached, aborting! in E:\wampp\www\mcwordpress\wp-includes\formatting.php:2718
+Stack trace:
+#0 E:\wampp\www\mcwordpress\wp-includes\formatting.php(2718): rtrim('E:\\wampp\\www\\mc...', '/\\')
+#1 E:\wampp\www\mcwordpress\wp-includes\formatting.php(2703): untrailingslashit('E:\\wampp\\www\\mc...')
+#2 E:\wampp\www\mcwordpress\wp-includes\plugin.php(755): trailingslashit('E:\\wampp\\www\\mc...')
+#3 E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent\defaultuniquecontent.php(50): plugin_dir_path('E:\\wampp\\www\\mc...')
+#4 E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent\defaultuniquecontent.php(57): require('E:\\wampp\\www\\mc...')
+#5 E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent\defaultuniquecontent.php(57): require('E:\\wampp\\www\\mc...')
+#6 E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent\defaultuniquecontent.php(57): require('E:\\wampp\\www\\mc...')
+#7 E:\wampp\www\mcwordpress\wp-content\pl in E:\wampp\www\mcwordpress\wp-includes\formatting.php on line 2718
+
+2021-01-23T12:53:29+00:00 CRITICAL Uncaught Error: Maximum function nesting level of '256' reached, aborting! in E:\wampp\www\mcwordpress\wp-includes\formatting.php:2718
+Stack trace:
+#0 E:\wampp\www\mcwordpress\wp-includes\formatting.php(2718): rtrim('E:\\wampp\\www\\mc...', '/\\')
+#1 E:\wampp\www\mcwordpress\wp-includes\formatting.php(2703): untrailingslashit('E:\\wampp\\www\\mc...')
+#2 E:\wampp\www\mcwordpress\wp-includes\plugin.php(755): trailingslashit('E:\\wampp\\www\\mc...')
+#3 E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent\defaultuniquecontent.php(50): plugin_dir_path('E:\\wampp\\www\\mc...')
+#4 E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent\defaultuniquecontent.php(57): require('E:\\wampp\\www\\mc...')
+#5 E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent\defaultuniquecontent.php(57): require('E:\\wampp\\www\\mc...')
+#6 E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent\defaultuniquecontent.php(57): require('E:\\wampp\\www\\mc...')
+#7 E:\wampp\www\mcwordpress\wp-content\pl in E:\wampp\www\mcwordpress\wp-includes\formatting.php on line 2718
+
+2021-01-23T13:10:00+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function plugin_dir_path(), 0 passed in E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent\admin\admin.php on line 9 and exactly 1 expected in E:\wampp\www\mcwordpress\wp-includes\plugin.php:754
+Stack trace:
+#0 E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent\admin\admin.php(9): plugin_dir_path()
+#1 E:\wampp\www\mcwordpress\wp-includes\class-wp-hook.php(287): default_uc_scripts('')
+#2 E:\wampp\www\mcwordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 E:\wampp\www\mcwordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 E:\wampp\www\mcwordpress\wp-includes\script-loader.php(2004): do_action('wp_enqueue_scri...')
+#5 E:\wampp\www\mcwordpress\wp-includes\class-wp-hook.php(287): wp_enqueue_scripts('')
+#6 E:\wampp\www\mcwordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#7 E:\wampp\www\mcwordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#8 E:\wam in E:\wampp\www\mcwordpress\wp-includes\plugin.php on line 754
+
+2021-01-23T13:10:58+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function plugin_dir_path(), 0 passed in E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent\admin\admin.php on line 9 and exactly 1 expected in E:\wampp\www\mcwordpress\wp-includes\plugin.php:754
+Stack trace:
+#0 E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent\admin\admin.php(9): plugin_dir_path()
+#1 E:\wampp\www\mcwordpress\wp-includes\class-wp-hook.php(287): default_uc_scripts('plugins.php')
+#2 E:\wampp\www\mcwordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 E:\wampp\www\mcwordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 E:\wampp\www\mcwordpress\wp-admin\admin-header.php(102): do_action('admin_enqueue_s...', 'plugins.php')
+#5 E:\wampp\www\mcwordpress\wp-admin\plugins.php(603): require_once('E:\\wampp\\www\\mc...')
+#6 {main}
+  thrown in E:\wampp\www\mcwordpress\wp-includes\plugin.php on line 754
+
+2021-01-23T13:11:54+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function plugin_dir_path(), 0 passed in E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent\admin\admin.php on line 10 and exactly 1 expected in E:\wampp\www\mcwordpress\wp-includes\plugin.php:754
+Stack trace:
+#0 E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent\admin\admin.php(10): plugin_dir_path()
+#1 E:\wampp\www\mcwordpress\wp-includes\class-wp-hook.php(287): default_uc_scripts('plugins.php')
+#2 E:\wampp\www\mcwordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 E:\wampp\www\mcwordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 E:\wampp\www\mcwordpress\wp-admin\admin-header.php(102): do_action('admin_enqueue_s...', 'plugins.php')
+#5 E:\wampp\www\mcwordpress\wp-admin\plugins.php(603): require_once('E:\\wampp\\www\\mc...')
+#6 {main}
+  thrown in E:\wampp\www\mcwordpress\wp-includes\plugin.php on line 754
+
+2021-01-23T13:12:11+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function plugin_dir_path(), 0 passed in E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent\admin\admin.php on line 10 and exactly 1 expected in E:\wampp\www\mcwordpress\wp-includes\plugin.php:754
+Stack trace:
+#0 E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent\admin\admin.php(10): plugin_dir_path()
+#1 E:\wampp\www\mcwordpress\wp-includes\class-wp-hook.php(287): default_uc_scripts('plugins.php')
+#2 E:\wampp\www\mcwordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 E:\wampp\www\mcwordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 E:\wampp\www\mcwordpress\wp-admin\admin-header.php(102): do_action('admin_enqueue_s...', 'plugins.php')
+#5 E:\wampp\www\mcwordpress\wp-admin\plugins.php(603): require_once('E:\\wampp\\www\\mc...')
+#6 {main}
+  thrown in E:\wampp\www\mcwordpress\wp-includes\plugin.php on line 754
+
+2021-01-23T13:56:15+00:00 CRITICAL Uncaught Error: Call to undefined function add_option_page() in E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent\includes\activator.php:11
+Stack trace:
+#0 E:\wampp\www\mcwordpress\wp-includes\class-wp-hook.php(287): duc_option_menu_link('')
+#1 E:\wampp\www\mcwordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 E:\wampp\www\mcwordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 E:\wampp\www\mcwordpress\wp-admin\includes\menu.php(155): do_action('admin_menu', '')
+#4 E:\wampp\www\mcwordpress\wp-admin\menu.php(327): require_once('E:\\wampp\\www\\mc...')
+#5 E:\wampp\www\mcwordpress\wp-admin\admin.php(158): require('E:\\wampp\\www\\mc...')
+#6 E:\wampp\www\mcwordpress\wp-admin\plugins.php(10): require_once('E:\\wampp\\www\\mc...')
+#7 {main}
+  thrown in E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent\includes\activator.php on line 11
+
+2021-01-23T14:24:12+00:00 CRITICAL Uncaught Error: Call to undefined function add_optio_page() in E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent\includes\defaultunique-settings.php:11
+Stack trace:
+#0 E:\wampp\www\mcwordpress\wp-includes\class-wp-hook.php(287): default_unique_content_menu('')
+#1 E:\wampp\www\mcwordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 E:\wampp\www\mcwordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 E:\wampp\www\mcwordpress\wp-admin\includes\menu.php(155): do_action('admin_menu', '')
+#4 E:\wampp\www\mcwordpress\wp-admin\menu.php(327): require_once('E:\\wampp\\www\\mc...')
+#5 E:\wampp\www\mcwordpress\wp-admin\admin.php(158): require('E:\\wampp\\www\\mc...')
+#6 E:\wampp\www\mcwordpress\wp-admin\options-general.php(10): require_once('E:\\wampp\\www\\mc...')
+#7 {main}
+  thrown in E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent\includes\defaultunique-settings.php on line 11
+
+2021-01-23T14:24:16+00:00 CRITICAL Uncaught Error: Call to undefined function add_optio_page() in E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent\includes\defaultunique-settings.php:11
+Stack trace:
+#0 E:\wampp\www\mcwordpress\wp-includes\class-wp-hook.php(287): default_unique_content_menu('')
+#1 E:\wampp\www\mcwordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 E:\wampp\www\mcwordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 E:\wampp\www\mcwordpress\wp-admin\includes\menu.php(155): do_action('admin_menu', '')
+#4 E:\wampp\www\mcwordpress\wp-admin\menu.php(327): require_once('E:\\wampp\\www\\mc...')
+#5 E:\wampp\www\mcwordpress\wp-admin\admin.php(158): require('E:\\wampp\\www\\mc...')
+#6 E:\wampp\www\mcwordpress\wp-admin\plugins.php(10): require_once('E:\\wampp\\www\\mc...')
+#7 {main}
+  thrown in E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent\includes\defaultunique-settings.php on line 11
+
+2021-01-23T14:24:17+00:00 CRITICAL Uncaught Error: Call to undefined function add_optio_page() in E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent\includes\defaultunique-settings.php:11
+Stack trace:
+#0 E:\wampp\www\mcwordpress\wp-includes\class-wp-hook.php(287): default_unique_content_menu('')
+#1 E:\wampp\www\mcwordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 E:\wampp\www\mcwordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 E:\wampp\www\mcwordpress\wp-admin\includes\menu.php(155): do_action('admin_menu', '')
+#4 E:\wampp\www\mcwordpress\wp-admin\menu.php(327): require_once('E:\\wampp\\www\\mc...')
+#5 E:\wampp\www\mcwordpress\wp-admin\admin.php(158): require('E:\\wampp\\www\\mc...')
+#6 E:\wampp\www\mcwordpress\wp-admin\plugins.php(10): require_once('E:\\wampp\\www\\mc...')
+#7 {main}
+  thrown in E:\wampp\www\mcwordpress\wp-content\plugins\defaultuniquecontent\includes\defaultunique-settings.php on line 11
+
